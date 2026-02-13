@@ -143,17 +143,6 @@ Pay-per-use pricing
 
 Faster deployment
 
-🔮 Future Enhancements
-
-User authentication with Amazon Cognito
-
-Input validation and error handling improvements
-
-Pagination for large datasets
-
-Infrastructure as Code (Terraform or CloudFormation)
-
-CI/CD pipeline integration
 
 🎯 Conclusion
 
