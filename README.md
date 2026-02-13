@@ -143,7 +143,6 @@ Pay-per-use pricing
 
 Faster deployment
 
-
 🎯 Conclusion
 
 This project demonstrates how to build a complete full-stack cloud application using AWS serverless services. It highlights modern cloud development practices, scalable architecture design, and secure service integration.
