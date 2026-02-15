@@ -71,10 +71,6 @@ Manages secure permissions between services
 
 Lambda execution role configured with required access policies
 
-6. Amazon CloudWatch
-
-Used for monitoring logs and debugging
-
 🔐 Security & Permissions
 
 IAM roles ensure secure interaction between Lambda and DynamoDB
